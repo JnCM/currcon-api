@@ -1,6 +1,6 @@
 # Currency Converter API
 
-This project contains a Python project for convert currencies. This version uses Django and Django REST Framework for API architecture and BeautifulSoup to scrap the Google Finance website in search of currencies quotes.
+This project contains a Python project for convert currencies. This version uses Django and Django REST Framework for API architecture and BeautifulSoup to scraping the Google Finance website in search of currencies quotes.
 
 ---
 
