@@ -132,9 +132,9 @@ SWAGGER_SETTINGS = {
 # Swagger and Redoc documentation informations
 schema_view = get_schema_view(
     openapi.Info(
-        title="Currency Conversor API",
+        title="Currency Converter API",
         default_version="v2.0",
-        description="Currency Conversor API - A REST API for convert currencies.",
+        description="Currency Converter API - A REST API for convert currencies.",
         contact=openapi.Contact(email="josuenunes014@gmail.com")
     ),
     public=True
