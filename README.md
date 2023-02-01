@@ -35,14 +35,14 @@ The project will be running on http://127.0.0.1:8000 .
 
 ## Documentation
 
-Go to [Swagger](http://127.0.0.1:8000/swagger) or [Redoc](http://127.0.0.1:8000/redoc) documentation with the project running for more infos and examples of API usage.
+Go to [Swagger](http://127.0.0.1:8000/swagger) or [Redoc](http://127.0.0.1:8000/redoc) documentation while the project running for more infos and examples of API usage.
 
 ---
 
 ## References
 
+- [BeautifulSoup docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/);
 - [Django docs](https://docs.djangoproject.com/en/4.1/);
 - [Django REST Framework docs](https://www.django-rest-framework.org/);
-- [Swagger Generator docs](https://drf-yasg.readthedocs.io/en/stable/readme.html);
-- [BeautifulSoup docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/);
-- [Docker docs](https://docs.docker.com/).
+- [Docker docs](https://docs.docker.com/);
+- [Swagger Generator docs](https://drf-yasg.readthedocs.io/en/stable/readme.html).
